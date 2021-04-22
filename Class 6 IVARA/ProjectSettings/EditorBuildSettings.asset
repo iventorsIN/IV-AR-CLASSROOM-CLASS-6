@@ -1,0 +1,156 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: 
+    guid: 00000000000000000000000000000000
+  - enabled: 0
+    path: Assets/6 Scenes/Sst/Economy/3. Money and Credit/Currency Exchange/Currency
+      Exchange.unity
+    guid: 0ceff0b8818b2d44d9b2cbb852e29f47
+  - enabled: 0
+    path: Assets/6 Scenes/Sst/Economy/3. Money and Credit/Indian Currency/Indian
+      Currency.unity
+    guid: f80b7d8e0508ca54b8e7bf75fe185683
+  - enabled: 0
+    path: Assets/6 Scenes/Sst/Geography/2.Major Soils in India/Major soils in india.unity
+    guid: 8b564d31aaa831c408733b585d29a9ac
+  - enabled: 0
+    path: Assets/6 Scenes/Sst/Geography/3.Major Soil Types/Major Soil Types.unity
+    guid: 7879f79e407bb2742a40a83720732623
+  - enabled: 0
+    path: Assets/6 Scenes/Sst/Geography/4.Dams in India/Damns in India.unity
+    guid: 4c56361eb8952c34fadd7af4b5b23736
+  - enabled: 0
+    path: Assets/6 Scenes/Sst/Geography/6.Major Crops/Major cash Crops/Major cash
+      Crops.unity
+    guid: 2d577db618352b742b00b79adeda84f7
+  - enabled: 0
+    path: Assets/6 Scenes/Sst/Geography/6.Major Crops/Major crops of Rice and wheat
+      in India/Major crops of Rice and wheat in India.unity
+    guid: f23f1fd97e7c6834487ecad9e505f147
+  - enabled: 0
+    path: Assets/6 Scenes/Sst/Geography/7.Thermal Plants in India/Thermal Plants
+      in India.unity
+    guid: 701638391350a8b4d8967ac086cbd963
+  - enabled: 0
+    path: Assets/6 Scenes/Sst/Geography/9.Major Industries/Cotton textiles/Cotton
+      textiles.unity
+    guid: 54d8b667c5617ac428dd0129e2f01b90
+  - enabled: 0
+    path: Assets/6 Scenes/Sst/Geography/9.Major Industries/software tech park in
+      india/software tech park in india.unity
+    guid: 7004a18e66e04b44985a7456bf804e67
+  - enabled: 0
+    path: Assets/6 Scenes/Sst/Geography/10. Life Lines of nation/Life Lines of nation.unity
+    guid: 4f6f3847b319ef64c9aa068709f22caa
+  - enabled: 0
+    path: Assets/6 Scenes/Sst/Geography/11.Major Ports/Major International airports/Major
+      International airports.unity
+    guid: 1bf4b4e788de3b0469a641333fbd0e51
+  - enabled: 0
+    path: Assets/6 Scenes/Sst/Geography/11.Major Ports/Major sea Port/Major sea Port.unity
+    guid: 8960e0f4bd5cad845a63ac27de6dc689
+  - enabled: 0
+    path: Assets/6 Scenes/Sst/History/3.Important centers of National Movement/Important
+      centers of National Movement.unity
+    guid: b95d604abaa1fd54f963cb8ea5a8e024
+  - enabled: 0
+    path: Assets/6 Scenes/Sst/History/4.Indian National Congress Sessions/Indian
+      National Congress SessionsMajor Soil Types 2.unity
+    guid: 9b8a3acdf7504914c91fe6766c9b65e7
+  - enabled: 0
+    path: Assets/6 Scenes/Sst/History/6.Age of Industrilization/Spinning Jenny/Spinning
+      Jenny.unity
+    guid: 625f2b7a73b7fd24b9a5073ccf993730
+  - enabled: 0
+    path: Assets/6 Scenes/Sst/Pol. Science/1.Power Sharing/Power sharing in belgium/Power
+      sharing in belgium.unity
+    guid: 9aa42dd9a76c041498e19b3b03f65234
+  - enabled: 0
+    path: Assets/6 Scenes/Sst/Pol. Science/1.Power Sharing/Power sharing in Srilanka/Power
+      sharing in Srilanka.unity
+    guid: a6517a81dcef68147a3f130f73906158
+  - enabled: 0
+    path: Assets/6 Scenes/Science/1. Food/cleaning food/cleaning food.unity
+    guid: 2199656f6d61c864b94de839c34240fa
+  - enabled: 0
+    path: Assets/6 Scenes/Science/1. Food/components of food/components of food.unity
+    guid: a27f20abfebfeeb4fa0cebbae44d88e4
+  - enabled: 0
+    path: Assets/6 Scenes/Science/2. Materials/materials of daily use/materials of
+      daily use.unity
+    guid: 294eca1036a56e74eb2e64eb16198743
+  - enabled: 0
+    path: Assets/6 Scenes/Science/3 the world of living/Skeletons/Skeletons.unity
+    guid: 92c57c8b5f322d24983a7d693e31d17f
+  - enabled: 0
+    path: Assets/6 Scenes/Science/4 Moving things,people, ideas moving/MeasuringTools/MeasuringTools.unity
+    guid: 55d53b414e783f64d95e6792952cfb34
+  - enabled: 0
+    path: Assets/6 Scenes/Science/5 how things work/electric current and circuits/electric
+      current and circuits.unity
+    guid: abb3520fab0b4d84b9fae02855a3e3fe
+  - enabled: 0
+    path: Assets/6 Scenes/Science/7 natural resources/NaturalResourcces/NaturalResourcces.unity
+    guid: 2b68f1e5a6ef00a40ae25a24795eaf9e
+  - enabled: 1
+    path: Assets/6 Scenes/Science/7 natural resources/waste/waste.unity
+    guid: 4a73b83d80f1c6c45b611ea6d6fdc4de
+  m_configObjects:
+    Unity.XR.WindowsMR.Settings: {fileID: 11400000, guid: 744b813df90924c169af73489b8325de,
+      type: 2}
+    com.unity.xr.arcore.PlayerSettings: {fileID: 11400000, guid: b0cb4c71f145b3c418569332b4ec26f1,
+      type: 2}
+    com.unity.xr.arkit.PlayerSettings: {fileID: 11400000, guid: b27ec7d82a91a48e69fd689ad6808e5e,
+      type: 2}
+    com.unity.xr.magicleap.magic_leap_settings: {fileID: 11400000, guid: 1eb95d77acb39444e8cf44313496a874,
+      type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: 58f40b12bbc864f3c96c6505a9a1e1e3,
+      type: 2}
